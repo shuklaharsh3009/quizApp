@@ -7,17 +7,17 @@ If you face any issue then please message me on twitter/instagram.
 Below are the screenshots and functioning/flow of the app.
 # quizApp Android App
 download apk ->
-https://drive.google.com/uc?id=1YpVO7WKxzQTkReiEBoHBd85vTlpDbV5S&export=download
+https://drive.google.com/file/d/14NxAgGBcIZ8ZL-9rhLAeWKbl_jj7BjRk/view?usp=sharing
 1. Splash Screen: <br>
-<img src="https://user-images.githubusercontent.com/100336788/185479540-b7a3fade-e3aa-43d7-b382-2e56355643de.png" alt="Splash Screen" height="380px"> <br>
+<img src="https://user-images.githubusercontent.com/100336788/185626422-a90babdb-cc97-453e-935b-a96c1c25df91.png" alt="Splash Screen" height="380px"> <br>
 2. Main Screen: <br>
-<img src="https://user-images.githubusercontent.com/100336788/185480315-bc09ff00-16a0-43b5-97c9-e762e9bfa513.png" alt="Splash Screen" height="380px"> <br>
+<img src="https://user-images.githubusercontent.com/100336788/185626640-1f4b420f-669b-4f73-a36f-3fedcb593a36.png" alt="Splash Screen" height="380px"> <br>
 3. Topics Screen: <br>
-<img src="https://user-images.githubusercontent.com/100336788/185480547-cc542c47-34d7-44cb-a5bc-3927f00133d1.png" alt="Splash Screen" height="380px"> <br>
+<img src="https://user-images.githubusercontent.com/100336788/185626871-02eb7a49-6eeb-4929-baf0-68a6350c20e7.png" alt="Splash Screen" height="380px"> <br>
 4. Questions Screen: <br>
-<img src="https://user-images.githubusercontent.com/100336788/185481110-30fe2be7-105b-4d82-92fd-5cc64eac7ded.png" alt="Splash Screen" height="380px"> <br>
+<img src="https://user-images.githubusercontent.com/100336788/185627492-534a48e5-7fbf-42c9-8313-2f2b8613edea.png" alt="Splash Screen" height="380px"> <br>
 5. Score Screem: <br>
-<img src="https://user-images.githubusercontent.com/100336788/185481767-72450189-74db-416c-92d1-e3e9ace5970d.png" alt="Splash Screen" height="380px"> <br>
+<img src="https://user-images.githubusercontent.com/100336788/185627715-09b7337d-a8c8-4c5f-91cc-298e471228b2.png" alt="Splash Screen" height="380px"> <br>
 
 # quizApp CLI
 <img src="https://user-images.githubusercontent.com/100336788/185483040-c90e5406-71fd-4480-8720-ff04efc1ad13.png" alt="Splash Screen" height="380px"> <br>
