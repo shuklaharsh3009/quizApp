@@ -1,9 +1,9 @@
 # quizApp
-With this app you can select different topics and take a small quiz on the topic and also keep a track of your scores.
-In this app the question are fed from a google sheet so you need an internet connection.
-The questions and topics can always be upgraded and increased in the google sheet and it will automatically be reflected in the app.
-I hope you like the App please do share your experience with it.
-If you face any issue then please message me on twitter/instagram.
+1. With this app you can select different topics and take a small quiz on the topic and also keep a track of your scores. <br>
+2. In this app the question are fed from a google sheet so you need an internet connection. <br>
+3. The questions and topics can always be upgraded and increased in the google sheet and it will automatically be reflected in the app. <br>
+I hope you like the App please do share your experience with it. <br>
+If you face any issue then please message me on twitter/instagram. <br>
 Below are the screenshots and functioning/flow of the app.
 # quizApp Android App
 download apk ->
