@@ -1,0 +1,18 @@
+name: quizApp
+description: >-
+  quizApp
+version: 1.2.3
+homepage: https://example-pet-store.com/newtify
+documentation: https://example-pet-store.com/newtify/docs
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+  
+dev_dependencies:
+  test: '>=1.15.0 <2.0.0'
+
+dependencies: {
+  gsheets: ^0.4.2,
+  http: ^0.13.5
+}
